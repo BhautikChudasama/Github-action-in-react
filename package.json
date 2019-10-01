@@ -4,7 +4,6 @@
   "description": "How to deploy your node server using github action",
   "main": "server.js",
   "dependencies": {
-    "firebase-tools": "^7.4.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
   },
