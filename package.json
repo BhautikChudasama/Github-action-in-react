@@ -1,0 +1,33 @@
+{
+  "name": "action-demo-nodejs",
+  "version": "1.0.0",
+  "description": "How to deploy your node server using github action",
+  "main": "server.js",
+  "dependencies": {
+    "react": "^16.10.1",
+    "reactdom": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhautikChudasama/action-nodejs.git"
+  },
+  "keywords": [
+    "ACTION",
+    "GITHUB",
+    "NODEJS"
+  ],
+  "author": "Bhautik Chudasama",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BhautikChudasama/action-nodejs/issues"
+  },
+  "homepage": "https://github.com/BhautikChudasama/action-nodejs#readme"
+}
